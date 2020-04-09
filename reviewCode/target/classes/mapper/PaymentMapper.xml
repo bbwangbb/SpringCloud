@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="cn.mb.dao.PaymentDao">
+
+    <resultMap id="BaseResultMap" type="cn.mb.entities.Payment">
+        <id column="id" property="id" jdbcType="BIGINT"/>
+        <result column="serial" property="serial" jdbcType="VARCHAR"/>
+    </resultMap>
+
+    <select id="getPaymentById" resultMap="BaseResultMap" parameterType="Long" >
+        select * from payment where id = #{id}
+    </select>
+
+    <insert id="save" parameterType="cn.mb.entities.Payment" keyProperty="id" useGeneratedKeys="true">
+        insert into payment(serial) values (#{serial});
+    </insert>
+
+</mapper>
