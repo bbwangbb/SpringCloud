@@ -1,0 +1,52 @@
+server:
+  port: 9527
+eureka:
+  server:
+  instance:
+    hostname: cloud-gateway-service
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone:  http://eureka7001.com:7001/eureka/  # 集群
+spring:
+  application:
+    name: cloud-gateway
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          # 开启从注册中心创建动态路由功能，利用微服务名进行路由
+          # 这样路由就不需要再指明URI了，直接通过服务名就会自动地负载均衡
+          enabled: true
+      routes:
+        - id: payment_route1            # 路由ID，无规则但是要唯一
+#          uri:  http://localhost:8001   # 目标URI
+          # 匹配服务，lb表示打开负载均衡；lb://服务名（不区分大小写）
+          uri: lb://CLOUD-PAYMENT-SERVICE
+          predicates:                   # 路由规则
+            # 访问路径
+            - Path=/payment/**
+            # 请求在这之后才可以访问
+            # 时间获取：ZonedDateTime now = ZonedDateTime.now();
+            # - After=2020-03-13T15:52:19.854+08:00[Asia/Shanghai]
+            # 之前：- Before=...
+            # 之间：- Between=时间1,时间2
+
+            # Cookie（变量名,值或值的正则表达式）：用postman（底层就是curl）或jmeter测试
+            # curl测试：curl http://localhost:9527/payment/getPort --cookie "username=bbbb"
+
+            # - Cookie=username,bbbb
+            # Header=变量名,值或值的正则表达式 | 请求头中要求有num且为正数才可以访问
+            # 测试：curl http://localhost:9527/payment/getPort -H "num:1"
+            # - Header=num, \d+
+
+            # 主机：参数是一组域名，逗号隔开
+            # 测试：curl http://localhost:9527/payment/getPort -H "Host:www.bb.com"
+            # - Host=**.bb.com
+
+            # 方法：GET请求才可以访问
+            # - Method=GET
+
+            # 含有参数：变量名,值的正则，满足才可以访问
+            # - Query=username,\d+

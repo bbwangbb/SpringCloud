@@ -1,0 +1,24 @@
+server:
+  port: 3344
+spring:
+  application:
+    name: cloud-config-center
+  cloud:
+    config:
+      server:
+        git:
+          # github仓库
+          # 这里现在用ssl的地址会报错
+          uri: https://github.com/bbwangbb/springcloud-config.git
+          # 搜索目录
+          search-paths:
+            # 文件夹名
+            - springcloud-config
+      # 指定分支，url不指定就是master，
+      label: master
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
