@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloud-stream-rabbitmq-consumer-8802" />
         <module name="cloud-config-center-3344" />
         <module name="provider-payment-8002" />
         <module name="provider-payment-8001" />
@@ -20,9 +21,11 @@
         <module name="cloud-eureka-7001" />
         <module name="cloud-provider-sonsul-payment-8006" />
         <module name="cloud-consumer-feign-hystrix-order-80" />
+        <module name="cloud-stream-rabbitmq-provider-8801" />
         <module name="cloud-config-client-3355" />
         <module name="cloud-consumer-feign-order-80" />
         <module name="cloud-consumer-80" />
+        <module name="cloud-config-client-3366" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
