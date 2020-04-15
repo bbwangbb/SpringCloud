@@ -1,0 +1,21 @@
+server:
+  port: 83
+
+spring:
+  application:
+    name: nacos-consumer
+  # 设置注册中心地址
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+
+# 暴露监控服务
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+provider:
+  url: http://nacos-provider

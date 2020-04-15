@@ -19,9 +19,9 @@ import java.util.List;
 @RestController
 public class OrderController {
     //  单机
-//    private static String url = "http://localhost:8001";
+    private static String url = "http://localhost:8001";
     //  集群：但是需要开启RestTemplate的负载均衡功能，否则他不知道用哪个，在ApplicationContextConfig配置类中添加
-    private static String url = "http://CLOUD-PAYMENT-SERVICE";
+//    private static String url = "http://CLOUD-PAYMENT-SERVICE";
 
     @Autowired
     private RestTemplate restTemplate;
@@ -78,4 +78,9 @@ public class OrderController {
         return restTemplate.getForObject(uri.toString() + "/payment/getPort", String.class);
     }
 
+
+    @GetMapping("/order/sleuth/getPort")
+    public String getSleuthPort() {
+        return restTemplate.getForObject(url + "/payment/sleuth/getPort", String.class);
+    }
 }

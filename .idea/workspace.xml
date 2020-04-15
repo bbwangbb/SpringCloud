@@ -2,45 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acaf9746-6cda-4fd5-a99f-426b94950e54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/cloud-config-client-3366.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/cn/mb/springcloud/ConfigClientMain3366.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/cn/mb/springcloud/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/target/classes/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/target/classes/cn/mb/springcloud/ConfigClientMain3366.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/target/classes/cn/mb/springcloud/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/cloud-stream-rabbitmq-consumer-8802.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/java/cn/mb/springcloud/StreamRabbitmqConsumer8802.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/java/cn/mb/springcloud/controller/ConsumerMessageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/target/classes/META-INF/cloud-stream-rabbitmq-consumer-8802.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/target/classes/cn/mb/springcloud/StreamRabbitmqConsumer8802.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/target/classes/cn/mb/springcloud/controller/ConsumerMessageController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/StreamRabbitMqProvider8801.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/controller/SendController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/service/MessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/service/impl/MessageServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/target/classes/META-INF/cloud-stream-rabbitmq-provider-8801.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/target/classes/cn/mb/springcloud/StreamRabbitMqProvider8801.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/target/classes/cn/mb/springcloud/controller/SendController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/target/classes/cn/mb/springcloud/service/MessageService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/target/classes/cn/mb/springcloud/service/impl/MessageServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8803/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-80/src/main/java/cn/mb/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-80/src/main/java/cn/mb/springcloud/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-80/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-80/target/classes/cn/mb/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-80/target/classes/cn/mb/springcloud/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-payment-8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/provider-payment-8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-payment-8001/src/main/java/cn/mb/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider-payment-8001/src/main/java/cn/mb/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-payment-8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/provider-payment-8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-payment-8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/provider-payment-8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-payment-8001/target/classes/cn/mb/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/provider-payment-8001/target/classes/cn/mb/springcloud/controller/PaymentController.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -65,6 +43,11 @@
     <ignored path="$PROJECT_DIR$/cloud-config-client-3366/target/" />
     <ignored path="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/target/" />
     <ignored path="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8803/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-alibaba-nacos-provider-9001/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-alibaba-nacos-provider-9002/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-alibaba-nacos-consumer-83/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,92 +78,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="13" selection-end-line="39" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/java/cn/mb/springcloud/StreamRabbitmqConsumer8802.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/service/MessageService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <state relative-caret-position="69">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/java/cn/mb/springcloud/controller/ConsumerMessageController.java">
+        <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="17" column="61" lean-forward="true" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+            <state relative-caret-position="520">
+              <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/src/main/java/cn/mb/alibaba/AlibabaConfigClient3377.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#605#606#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/service/impl/MessageServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/src/main/java/cn/mb/alibaba/controller/ConfigClientController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="364">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/StreamRabbitMqProvider8801.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/controller/SendController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-              <folding>
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -219,33 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cloud-all-service-8080/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-all-service-8080/src/main/java/cn/mb/service/OrderServiceFallback.java" />
-        <option value="$PROJECT_DIR$/cloud-all-service-8080/src/main/java/cn/mb/service/OrderService.java" />
-        <option value="$PROJECT_DIR$/cloud-all-service-8080/src/main/java/cn/mb/service/PaymentServiceFallback.java" />
-        <option value="$PROJECT_DIR$/cloud-all-service-8080/src/main/java/cn/mb/service/PaymentService.java" />
-        <option value="$PROJECT_DIR$/reviewCode/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/cloud-all-service-8080/src/main/java/cn/mb/feign/OrderService.java" />
-        <option value="$PROJECT_DIR$/reviewCode/src/main/java/cn/mb/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/reviewCode/src/main/java/cn/mb/controller/PaymentController.java" />
-        <option value="$PROJECT_DIR$/reviewCode/src/main/java/cn/mb/service/impl/PaymentServiceImpl.java" />
-        <option value="$PROJECT_DIR$/reviewCode/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order-80/src/main/java/cn/mb/springcloud/service/PaymentHystrixService.java" />
-        <option value="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order-80/src/main/java/cn/mb/springcloud/service/PaymentFallbackService.java" />
-        <option value="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard-9001/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard-9001/src/main/java/cn/mb/springcloud/HystrixDashboardMain9001.java" />
-        <option value="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard-9001/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order-80/src/main/java/cn/mb/springcloud/FeignHystrixOrderMain80.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-gateway-9527/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-gateway-9527/src/main/java/cn/mb/springcloud/GatewayMain9527.java" />
-        <option value="$PROJECT_DIR$/cloud-gateway-9527/src/main/java/cn/mb/springcloud/config/MyRouteConfig.java" />
-        <option value="$PROJECT_DIR$/provider-payment-8002/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/cloud-gateway-9527/src/test/java/Test.java" />
-        <option value="$PROJECT_DIR$/cloud-gateway-9527/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/cloud-gateway-9527/src/main/java/cn/mb/springcloud/filters/MyGlobalFilter.java" />
-        <option value="$PROJECT_DIR$/cloud-config-center-3344/src/main/java/cn/mb/springcloud/ConfigCenter3344.java" />
-        <option value="$PROJECT_DIR$/cloud-config-center-3344/src/test/java/T.java" />
         <option value="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/cn/mb/springcloud/ConfigClient3355.java" />
         <option value="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/cn/mb/springcloud/controller/TestController.java" />
         <option value="$PROJECT_DIR$/cloud-config-client-3355/src/test/java/T.java" />
@@ -264,12 +183,39 @@
         <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/service/impl/MessageServiceImpl.java" />
         <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/controller/SendController.java" />
         <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/java/cn/mb/springcloud/StreamRabbitmqConsumer8802.java" />
         <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/java/cn/mb/springcloud/service/MessageService.java" />
         <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/java/cn/mb/springcloud/service/impl/MessageServiceImpl.java" />
         <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/service/controller/ConsumerMessageController.java" />
         <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/java/cn/mb/springcloud/controller/ConsumerMessageController.java" />
+        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8803/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8803/src/main/java/cn/mb/springcloud/StreamRabbitmqConsumer8803.java" />
+        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8803/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/provider-payment-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consumer-80/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-provider-9001/src/main/java/cn/mb/alibaba/controller/ProviderController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-provider-9001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-provider-9001/src/main/java/cn/mb/alibaba/NacosProvider9001.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-provider-9002/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-provider-9002/src/main/java/cn/mb/alibaba/NacosProvider9002.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-consumer-83/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-consumer-83/src/main/java/cn/mb/alibaba/NacosConsumer83.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-consumer-83/src/main/java/cn/mb/alibaba/config/ApplicationContextConfig.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-consumer-83/src/main/java/cn/mb/alibaba/controller/ConsumerController.java" />
+        <option value="$PROJECT_DIR$/provider-payment-8001/src/main/java/cn/mb/springcloud/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/cloud-consumer-80/src/main/java/cn/mb/springcloud/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/provider-payment-8001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-consumer-80/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-consumer-83/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-provider-9001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-provider-9002/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/src/main/java/cn/mb/alibaba/AlibabaConfigClient3377.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/src/main/java/cn/mb/alibaba/controller/ConfigClientController.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/src/main/resources/bootstrap.yml" />
       </list>
     </option>
   </component>
@@ -290,7 +236,12 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="SpringCloud" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="cloud-alibaba-nacos-provider-9001" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-alibaba-nacos-provider-9001" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
@@ -313,6 +264,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -323,144 +275,83 @@
             <path>
               <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-stream-rabbitmq-consumer-8802" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-alibaba-nacos-config-client-3377" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-stream-rabbitmq-consumer-8802" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-alibaba-nacos-config-client-3377" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-stream-rabbitmq-consumer-8802" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-stream-rabbitmq-consumer-8802" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-alibaba-nacos-config-client-3377" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-stream-rabbitmq-consumer-8802" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-alibaba-nacos-config-client-3377" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-stream-rabbitmq-consumer-8802" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-alibaba-nacos-config-client-3377" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="mb" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-stream-rabbitmq-consumer-8802" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-alibaba-nacos-config-client-3377" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
               <item name="mb" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-stream-rabbitmq-consumer-8802" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-alibaba-nacos-config-client-3377" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
               <item name="mb" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-alibaba-nacos-config-client-3377" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="mb" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-stream-rabbitmq-provider-8801" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-stream-rabbitmq-provider-8801" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-stream-rabbitmq-provider-8801" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-alibaba-nacos-config-client-3377" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-stream-rabbitmq-provider-8801" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-stream-rabbitmq-provider-8801" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-stream-rabbitmq-provider-8801" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="mb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-stream-rabbitmq-provider-8801" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="mb" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud-stream-rabbitmq-provider-8801" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="mb" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -473,7 +364,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-config-client-3366/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -482,19 +373,22 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ideaProjects\SpringCloud\cloud-config-client-3366\src\main\resources" />
-      <recent name="D:\ideaProjects\SpringCloud\cloud-provider-hystrix-payment-8001\src\main\resources" />
-      <recent name="D:\ideaProjects\SpringCloud\cloud-consumer-feign-order-80\src\main\resources" />
-      <recent name="D:\ideaProjects\SpringCloud\reviewCode\src\main\resources\mapper" />
-      <recent name="D:\ideaProjects\SpringCloud\cloud-provider-sonsul-payment-8006\src\main\resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="cn.mb.springcloud.config" />
-      <recent name="cn.mb.springcloud.entities" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ideaProjects\SpringCloud\cloud-consumer-80\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.mb.alibaba.controller" />
+      <recent name="cn.mb.alibaba" />
+      <recent name="cn.mb.springcloud.controller" />
+      <recent name="cn.mb.springcloud" />
+      <recent name="cn.mb.springcloud.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaProjects\SpringCloud\cloud-alibaba-nacos-config-client-3377\src\main\resources" />
+      <recent name="D:\ideaProjects\SpringCloud\cloud-alibaba-nacos-consumer-83\src\main\resources" />
+      <recent name="D:\ideaProjects\SpringCloud\cloud-alibaba-nacos-provider-9002\src\main\resources" />
+      <recent name="D:\ideaProjects\SpringCloud\cloud-stream-rabbitmq-consumer-8803\src\main\resources" />
+      <recent name="D:\ideaProjects\SpringCloud\cloud-config-client-3366\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -515,22 +409,16 @@
     </option>
     <option name="contentProportion" value="0.16991343" />
   </component>
-  <component name="RunManager">
-    <configuration name="T (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T" />
-      <module name="cloud-config-client-3355" />
+  <component name="RunManager" selected="Spring Boot.AlibabaConfigClient3377">
+    <configuration name="AlibabaConfigClient3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-alibaba-nacos-config-client-3377" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.mb.alibaba.AlibabaConfigClient3377" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConfigCenter3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="ConfigCenter3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-config-center-3344" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.mb.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.mb.springcloud.ConfigCenter3344" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -577,9 +465,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GatewayMain9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-gateway-9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.mb.springcloud.GatewayMain9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HystrixDashboardMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumer-hystrix-dashboard-9001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.mb.springcloud.HystrixDashboardMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosConsumer83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-alibaba-nacos-consumer-83" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.mb.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.mb.alibaba.NacosConsumer83" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosProvider9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-alibaba-nacos-provider-9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.mb.alibaba.NacosProvider9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosProvider9002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-alibaba-nacos-provider-9002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.mb.alibaba.NacosProvider9002" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -666,13 +588,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamRabbitmqConsumer8803" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-stream-rabbitmq-consumer-8803" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.mb.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.mb.springcloud.StreamRabbitmqConsumer8803" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.StreamRabbitMqProvider8801" />
+        <item itemvalue="Spring Boot.NacosConsumer83" />
+        <item itemvalue="Spring Boot.StreamRabbitmqConsumer8803" />
         <item itemvalue="Spring Boot.StreamRabbitmqConsumer8802" />
+        <item itemvalue="Spring Boot.StreamRabbitMqProvider8801" />
         <item itemvalue="Spring Boot.ConfigClient3355" />
-        <item itemvalue="Spring Boot.ConfigCenter3344" />
-        <item itemvalue="Application.T (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -712,7 +647,10 @@
       <workItem from="1586745211940" duration="259000" />
       <workItem from="1586751556070" duration="101000" />
       <workItem from="1586751678321" duration="398000" />
-      <workItem from="1586761766695" duration="7583000" />
+      <workItem from="1586761766695" duration="7831000" />
+      <workItem from="1586777929133" duration="39000" />
+      <workItem from="1586920189614" duration="1872000" />
+      <workItem from="1586930814098" duration="12353000" />
     </task>
     <task id="LOCAL-00001" summary="2020-4-8&#10;1、创建工程 …&#10;2、创建模块&#10;3、创建生产者、消费者&#10;4、调用&#10;5、构建Eureka服务端及客户端（集群部署）&#10;6、开启服务发现功能&#10;7、了解Eureka自我保护机制&#10;----------------------------------------------&#10;2020-4-9&#10;1、consul&#10;2、ribbon">
       <created>1586429294520</created>
@@ -742,22 +680,67 @@
       <option name="project" value="LOCAL" />
       <updated>1586687512573</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2020-4-13&#10;1、Spring Cloud Bus：消息总线，配置中心和客户端订阅同一个消息队列，当向总线刷新配置时，会将该消息发送到队列中，其他客户端监听此队列后就会自动去刷新&#10;2、Spring Cloud Stream：消息驱动；就是说通过Facade模式，不管底部使用的是什么消息队列（RabbitMQ或者Kafka），直接通过Binder来调用来实现消息的发送与使用">
+      <created>1586773229653</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586773229653</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92409000" />
+    <option name="totallyTimeSpent" value="106921000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26172706" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49935317" visible="true" weight="0.19083156" />
+      <window_info id="Structure" order="6" sideWeight="0.5006468" side_tool="true" weight="0.16151386" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.44034708" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Problems" order="14" weight="0.329718" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.11388286" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.45842218" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.16311301" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49935317" visible="true" weight="0.16151386" />
+      <window_info active="true" id="Structure" order="6" sideWeight="0.5006468" side_tool="true" visible="true" weight="0.16151386" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -775,7 +758,7 @@
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="bottom" id="Problems" order="14" weight="0.329718" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" />
-      <window_info anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.37635574" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.16160521" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -784,9 +767,9 @@
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.17217484" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" visible="true" weight="0.16311301" />
       <window_info anchor="right" id="Bean Validation" order="9" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -796,7 +779,8 @@
     <MESSAGE value="2020-4-10&#10;1、openFeign&#10;   将接口通过service的方式访问&#10;2、hystrix&#10;   包含服务降级，熔断等" />
     <MESSAGE value="2020-4-11&#10;Hystrix Dashboard配置完成" />
     <MESSAGE value="2020-4-12&#10;1、Gateway网关：三大核心（路由，断言，过滤器），其实就是servlet的过滤器或是SpringMVC的拦截器，只不过是在网关中对所有请求的同一管理&#10;2、配置中心：将配置统一管理" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-4-12&#10;1、Gateway网关：三大核心（路由，断言，过滤器），其实就是servlet的过滤器或是SpringMVC的拦截器，只不过是在网关中对所有请求的同一管理&#10;2、配置中心：将配置统一管理" />
+    <MESSAGE value="2020-4-13&#10;1、Spring Cloud Bus：消息总线，配置中心和客户端订阅同一个消息队列，当向总线刷新配置时，会将该消息发送到队列中，其他客户端监听此队列后就会自动去刷新&#10;2、Spring Cloud Stream：消息驱动；就是说通过Facade模式，不管底部使用的是什么消息队列（RabbitMQ或者Kafka），直接通过Binder来调用来实现消息的发送与使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-4-13&#10;1、Spring Cloud Bus：消息总线，配置中心和客户端订阅同一个消息队列，当向总线刷新配置时，会将该消息发送到队列中，其他客户端监听此队列后就会自动去刷新&#10;2、Spring Cloud Stream：消息驱动；就是说通过Facade模式，不管底部使用的是什么消息队列（RabbitMQ或者Kafka），直接通过Binder来调用来实现消息的发送与使用" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -817,385 +801,30 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cloud-eureka-7001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="20" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-gateway-9527/src/main/java/cn/mb/springcloud/GatewayMain9527.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/provider-payment-8001/src/main/java/cn/mb/springcloud/controller/PaymentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="48" column="33" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1522#1523#0" expanded="true" />
-            <element signature="e#1549#1550#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-gateway-9527/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/provider-payment-8002/src/main/java/cn/mb/springcloud/PaymentMain8002.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/provider-payment-8002/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.2.1.RELEASE/spring-cloud-gateway-core-2.2.1.RELEASE.jar!/org/springframework/cloud/gateway/handler/predicate/HeaderRoutePredicateFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.2.1.RELEASE/spring-cloud-gateway-core-2.2.1.RELEASE.jar!/org/springframework/cloud/gateway/handler/predicate/QueryRoutePredicateFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.2.1.RELEASE/spring-cloud-gateway-core-2.2.1.RELEASE.jar!/org/springframework/cloud/gateway/support/ShortcutConfigurable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.2.1.RELEASE/spring-cloud-gateway-core-2.2.1.RELEASE.jar!/org/springframework/cloud/gateway/handler/predicate/PathRoutePredicateFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/org.springframework.cloud.gateway.handler.predicate.RoutePredicateFactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>org.springframework.cloud.gateway.handler.predicate.RoutePredicateFactory</OriginalElement>
-          <nodes>
-            <node x="0.0" y="81.0">java.lang.FunctionalInterface</node>
-            <node x="0.0" y="162.0">org.springframework.cloud.gateway.support.Configurable</node>
-            <node x="0.0" y="0.0">org.springframework.cloud.gateway.support.ShortcutConfigurable</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-356.0" y="-19.0" />
-          <SelectedNodes>
-            <node>java.lang.FunctionalInterface</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/org.springframework.cloud.gateway.handler.predicate.BeforeRoutePredicateFactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>org.springframework.cloud.gateway.handler.predicate.BeforeRoutePredicateFactory</OriginalElement>
-          <nodes>
-            <node x="618.0" y="0.0">java.lang.FunctionalInterface</node>
-            <node x="0.0" y="86.0">org.springframework.cloud.gateway.support.AbstractConfigurable</node>
-            <node x="95.5" y="0.0">org.springframework.cloud.gateway.support.Configurable</node>
-            <node x="312.0" y="0.0">org.springframework.cloud.gateway.support.ShortcutConfigurable</node>
-            <node x="315.58333333333337" y="86.0">org.springframework.cloud.gateway.handler.predicate.RoutePredicateFactory</node>
-            <node x="102.0" y="172.0">org.springframework.cloud.gateway.handler.predicate.AbstractRoutePredicateFactory</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="org.springframework.cloud.gateway.handler.predicate.RoutePredicateFactory" target="org.springframework.cloud.gateway.support.Configurable">
-              <point x="-99.33333333333331" y="-18.0" />
-              <point x="365.25" y="61.0" />
-              <point x="238.0" y="61.0" />
-              <point x="47.5" y="18.0" />
-            </edge>
-            <edge source="org.springframework.cloud.gateway.handler.predicate.AbstractRoutePredicateFactory" target="org.springframework.cloud.gateway.support.AbstractConfigurable">
-              <point x="-98.5" y="-18.0" />
-              <point x="200.5" y="147.0" />
-              <point x="143.0" y="147.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-            <edge source="org.springframework.cloud.gateway.handler.predicate.AbstractRoutePredicateFactory" target="org.springframework.cloud.gateway.handler.predicate.RoutePredicateFactory">
-              <point x="98.5" y="-18.0" />
-              <point x="397.5" y="147.0" />
-              <point x="464.58333333333337" y="147.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-            <edge source="org.springframework.cloud.gateway.handler.predicate.RoutePredicateFactory" target="java.lang.FunctionalInterface">
-              <point x="99.33333333333337" y="-18.0" />
-              <point x="563.9166666666667" y="61.0" />
-              <point x="755.0" y="61.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-            <edge source="org.springframework.cloud.gateway.handler.predicate.RoutePredicateFactory" target="org.springframework.cloud.gateway.support.ShortcutConfigurable">
-              <point x="0.0" y="-18.0" />
-              <point x="464.58333333333337" y="61.0" />
-              <point x="455.0" y="61.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-            <edge source="org.springframework.cloud.gateway.support.AbstractConfigurable" target="org.springframework.cloud.gateway.support.Configurable">
-              <point x="0.0" y="-18.0" />
-              <point x="-47.5" y="18.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="181.0" y="-14.0" />
-          <SelectedNodes>
-            <node>org.springframework.cloud.gateway.handler.predicate.AbstractRoutePredicateFactory</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.2.1.RELEASE/spring-cloud-gateway-core-2.2.1.RELEASE.jar!/org/springframework/cloud/gateway/handler/predicate/BeforeRoutePredicateFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.2.1.RELEASE/spring-cloud-gateway-core-2.2.1.RELEASE.jar!/org/springframework/cloud/gateway/handler/predicate/CloudFoundryRouteServiceRoutePredicateFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.2.1.RELEASE/spring-cloud-gateway-core-2.2.1.RELEASE.jar!/org/springframework/cloud/gateway/handler/predicate/AbstractRoutePredicateFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.2.1.RELEASE/spring-cloud-gateway-core-2.2.1.RELEASE.jar!/org/springframework/cloud/gateway/handler/predicate/RoutePredicateFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-gateway-9527/src/test/java/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-gateway-9527/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="809">
-          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/provider-payment-8001/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="80" column="19" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="80" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/provider-payment-8001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="32" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-config-center-3344/src/test/java/T.java">
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/service/MessageService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding>
-            <element signature="e#60#61#0" expanded="true" />
-            <element signature="e#96#97#0" expanded="true" />
-          </folding>
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-config-center-3344/src/main/java/cn/mb/springcloud/ConfigCenter3344.java">
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/service/impl/MessageServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-config-client-3355/src/test/java/T.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-gateway-9527/src/main/java/cn/mb/springcloud/config/MyRouteConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="260">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-gateway-9527/src/main/java/cn/mb/springcloud/filters/MyGlobalFilter.java">
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/StreamRabbitMqProvider8801.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        <state relative-caret-position="208">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.2.1.RELEASE/spring-cloud-gateway-core-2.2.1.RELEASE.jar!/org/springframework/cloud/gateway/filter/GatewayFilterChain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.2.1.RELEASE/spring-cloud-gateway-core-2.2.1.RELEASE.jar!/org/springframework/cloud/gateway/handler/FilteringWebHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="78" column="50" selection-start-line="78" selection-start-column="50" selection-end-line="78" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-config-client-3355/src/main/java/cn/mb/springcloud/ConfigClient3355.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-config-client-3355/src/main/java/cn/mb/springcloud/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" selection-start-line="7" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-config-client-3355/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-config-client-3366/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-config-client-3366/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-config-center-3344/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="34" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/provider-payment-8002/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="78" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-config-client-3366/src/main/java/cn/mb/springcloud/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-config-client-3366/src/main/java/cn/mb/springcloud/ConfigClientMain3366.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-provider-hystrix-payment-8001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -1210,99 +839,372 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/pom.xml">
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/java/cn/mb/springcloud/controller/ConsumerMessageController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="57" selection-end-column="19" />
+        <state relative-caret-position="304">
+          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE.jar!/org/springframework/aop/framework/AopProxyFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE.jar!/org/springframework/aop/framework/AopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE.jar!/org/springframework/aop/framework/DefaultAopProxyFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/framework/AopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1820">
+          <caret line="101" column="11" selection-start-line="101" selection-start-column="11" selection-end-line="101" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="83" column="6" selection-start-line="83" selection-start-column="6" selection-end-line="83" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/framework/AopProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyCreatorSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding>
+            <element signature="e#2241#2242#0" expanded="true" />
+            <element signature="e#2275#2276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/framework/DefaultAopProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="62" column="34" lean-forward="true" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+        <state relative-caret-position="338">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="56" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8803/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="13" selection-end-line="39" selection-end-column="47" />
+        <state relative-caret-position="820">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8803/src/main/java/cn/mb/springcloud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8803/src/main/java/cn/mb/springcloud/controller/ConsumerMessageController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8803/src/main/java/cn/mb/springcloud/StreamRabbitmqConsumer8803.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8803/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+        <state relative-caret-position="134">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/java/cn/mb/springcloud/service/MessageService.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="-1087">
+          <caret line="81" column="25" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/java/cn/mb/springcloud/service/impl/MessageServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/provider-payment-8002/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        <state relative-caret-position="187">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="72" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-provider-9002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-provider-9001/src/main/java/cn/mb/alibaba/controller/ProviderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/service/MessageService.java">
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-consumer-83/src/main/java/cn/mb/alibaba/config/ApplicationContextConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-consumer-83/src/main/java/cn/mb/alibaba/NacosConsumer83.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-provider-9001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-payment-8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="81" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="85" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-consumer-80/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-consumer-80/src/main/java/cn/mb/springcloud/loadBalanced/MyLB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/java/cn/mb/springcloud/StreamRabbitmqConsumer8802.java">
+    <entry file="file://$PROJECT_DIR$/cloud-consumer-80/src/main/java/cn/mb/springcloud/loadBalanced/LoadBalanced.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="104">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/service/impl/MessageServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/src/main/java/cn/mb/springcloud/StreamRabbitMqProvider8801.java">
+    <entry file="file://$PROJECT_DIR$/provider-payment-8001/src/main/java/cn/mb/springcloud/controller/PaymentController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="27" />
+          <caret line="64" column="40" lean-forward="true" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="40" />
+          <folding>
+            <element signature="e#1882#1883#0" expanded="true" />
+            <element signature="e#1976#1977#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-consumer-80/src/main/java/cn/mb/springcloud/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+          <folding>
+            <element signature="e#3245#3246#0" expanded="true" />
+            <element signature="e#3332#3333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-payment-8001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-consumer-80/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="15" selection-start-line="15" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-consumer-83/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-provider-9001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-provider-9002/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-provider-9001/src/main/java/cn/mb/alibaba/NacosProvider9001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer-8802/src/main/java/cn/mb/springcloud/controller/ConsumerMessageController.java">
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-provider-9002/src/main/java/cn/mb/alibaba/controller/ProviderController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="17" column="61" lean-forward="true" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+        <state relative-caret-position="130">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-provider-9002/src/main/java/cn/mb/alibaba/NacosProvider9002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-consumer-83/src/main/java/cn/mb/alibaba/controller/ConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-consumer-83/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-567">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/src/main/java/cn/mb/alibaba/AlibabaConfigClient3377.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/src/main/java/cn/mb/alibaba/controller/ConfigClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-nacos-config-client-3377/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,21 @@
+server:
+  port: 3377
+
+spring:
+  application:
+    name: nacos-config-client
+  # 设置注册中心地址
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        # Nacos作为配置中心的uri
+        server-addr: localhost:8848
+        file-extension: yaml
+        # 添加分组
+        group: DEFAULT_GROUP
+        # 添加命名空间
+        namespace: e7b5b1ae-335b-4745-8118-3c84021311de
+
+  # 这样配置中心找的文件就是：nacos-config-client-dev.yml
